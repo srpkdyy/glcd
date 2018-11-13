@@ -1,11 +1,10 @@
-# glcd_lib
-Arduino用GraphicLCD用のライブラリです。  
+# explain
+This is a library for Graphic LCD with Arduino UNO.
 
-## 環境
+## enviroment
 - Arduino UNO ATMega328P
 - GraphicLCD　SG12864ASLB-GB-G01
 
-## 使い方
-このリポジトリをCloneしていただければ、そのまま使えます。   
-基本的に `lcdlib.h` に記述してある関数を使ってください。   
-リファレンスは後々作成いたします。
+## usage
+git clone this repository.   
+please use some function in `lcdlib.h`.

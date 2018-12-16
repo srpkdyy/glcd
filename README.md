@@ -6,5 +6,5 @@ This is a library for Graphic LCD with Arduino UNO.
 - GraphicLCD　SG12864ASLB-GB-G01
 
 ## usage
-git clone this repository.   
-please use some function in `lcdlib.h`.
+- git clone this repository.   
+- please use some function in `lcdlib.h`.

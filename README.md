@@ -1,5 +1,5 @@
 # explain
-This is a library for Graphic LCD with Arduino UNO.
+- This is a library for Graphic LCD with Arduino UNO.
 
 ## enviroment
 - Arduino UNO ATMega328P

@@ -1,6 +1,6 @@
 # Graphic LCD library
 
-# Explain
+## Explain
 - This is a library for Graphic LCD with Arduino UNO.
 
 ## Enviroment

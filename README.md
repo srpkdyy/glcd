@@ -1,10 +1,10 @@
-# explain
+# Explain
 - This is a library for Graphic LCD with Arduino UNO.
 
-## enviroment
+## Enviroment
 - Arduino UNO ATMega328P
 - GraphicLCD　SG12864ASLB-GB-G01
 
-## usage
+## Usage
 - git clone this repository.   
-- please use some function in `lcdlib.h`.
+- use functions in `lcdlib.h`.

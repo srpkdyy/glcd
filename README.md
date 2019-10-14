@@ -8,5 +8,5 @@
 - GraphicLCD　SG12864ASLB-GB-G01
 
 ## Usage
-- git clone this repository.   
-- use functions in `lcdlib.h`.
+- `git clone` this repository.   
+- Use functions in `lcdlib.h`.
